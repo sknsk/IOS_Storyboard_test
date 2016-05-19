@@ -3,7 +3,7 @@
 //  PushTest
 //
 //  Created by MF839-019 on 2016. 5. 19..
-//  Copyright © 2016년 MF839-019. All rights reserved.
+//  Copyright © 2016년 MF839-019. All rights reserved..
 //
 
 import UIKit
